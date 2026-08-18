@@ -21,4 +21,4 @@ I currently help organizations — mostly through **Think & Solve Different Solu
 **Currently:** working toward AWS Certified Solutions Architect – Associate, iSAQB CPSA-F, and PSM I.
 
 ---
-📫 [LinkedIn](https://linkedin.com/in/yildizib) · [Portfolio](https://ibrahimyildiz.tech)
+📫 [LinkedIn](https://linkedin.com/in/yildizib) · [Portfolio](https://ibrahimyildiz.tech) · [Blog](https://yildizib.github.io/)
